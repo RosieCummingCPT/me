@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Rosie Cumming",
+    "occupation":"education specialist and researcher",
+    "description":"As an educator who is passionate about inclusive education, I seek to explore the potential intersections between gender, literacy and digital innovation.",
+    "image":"profilepicture.jpg",
+    "bio":"I am a seasoned educator with proven management experience leading a large English department at an innovative online school. I have a track record of academic excellence, recently completing my MA in Education, Gender and International Development at University College London where I was the IOE-Clarke scholar for 2021-22.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Email : roseinthecape@outlook.com",
+    "phone": "Telephone number : On request",
+    "address":{
+      "street":"Address : On request",
+      "city":"South Africa",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/rosie-cumming",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"The following is a breakdown of my technical and practical skills",
+    "education":[
+      {
+        "school":"University College London",
+        "degree":"Masters Degree in Education, Gender and International Development",
+        "graduated":"September 2021 - September 2022",
+        "description":"I have recently completed my MA in Education, Gender and International Development where I was the IOE-Clarke scholar for 2021-22. This degree has enabled me to develop an understanding of the gender dimensions of research, analysis, policy and practice in relation to education in low-and-middle-income countries."
+      },
+      {
+        "school":"University of Cape Town",
+        "degree":"Bachelor of Education (Honours) in Language and Literacy (Cum Laude)",
+        "graduated":"January 2017 - December 2018",
+        "description":"I obtained my Honours degree while working full time at Wynberg Girls' Junior School. My Honours project which focused on linguistic inclusion in schools, obtained a final grade of 86% and was singled out by the external examiner."
+      },
+      {
+        "school":"University of South Africa",
+        "degree":"Postgraduate Certificate in Education (Foundation Phase and Early Childhood Development)",
+        "graduated":"January 2014 - December 2015",
+        "description":"Majoring in Foundation Phase and Early Childhood Development has provided me a broad basis to understand the building blocks of our learning journey."
+      },
+      {
+        "school":"University of Cape Town",
+        "degree":"Bachelor of Social Science in Sociology and Gender Studies",
+        "graduated":"January 2011 - December 2013",
+        "description":"Majoring in Sociology and Gender Studies has provided me with the depth of understanding needed to further explore key challenges to educational inclusion facing South African learners today."
+      }
+    ],
+    "work":[
+      {
+        "company":"Curro Online",
+        "title":"English Subject Lead",
+        "years":"2020-2021",
+        "description":"As head of the Junior School English department, I grew with the school as it expanded during its first year. During this time, I managed a large team in a dynamic and ever-changing online environment whilst delivering innovative online classes."
+      },
+      {
+        "company":"Foundation Phase Educator",
+        "title":"Prospero Education",
+        "years":"2019-2020",
+        "description":"As a supply teacher for Prospero Education, I worked in schools across London developing my teaching skills with learners from different year groups, socio-economic backgrounds and with varying levels of ability. As someone who thrives under pressure, I enjoyed the constantly evolving demands. This experiece allowed me to become a more intuitive and relaxed educator, solidifying my love for this sector."
+      },
+      {
+        "company":"Wynberg Girls' Junior School",
+        "title":"Library Curator",
+        "years":"2017-2018",
+        "description":"As Library Curator my duties included not only the creation of engaging literacy lessons for Grades R to 7 but also the management of the library budget and stock."
+      },
+      {
+        "company":"EPIK Programme",
+        "title":"Guest English Teacher",
+        "years":"2016",
+        "description":"While in South Korea as a Guest English Teacher through the EPIK Programme, I taught English as a foreign language to students in Grades R to 6. This was an immensely rewarding experience which enabled me to work within a set curriculum whilst finding creative solutions to barriers to learning."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Moodle",
+        "level":"89%"
+      },
+      {
+        "name":"Canvas",
+        "level":"75%"
+      },
+      {
+        "name":"Google Suite",
+        "level":"85%"
+      },
+      {
+        "name":"Staffroom",
+        "level":"72%"
+      },
+      {
+        "name":"Articulate 360",
+        "level":"71%"
+      },
+      {
+        "name":"H5P",
+        "level":"65%"
+      },
+      {
+        "name":"LightSail",
+        "level":"88%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Switch",
+        "category":"Switch company website",
+        "image":"switch.jpg",
+        "url":"https://switch.org.za"
+      },
+      {
+        "title":"Space Evaders",
+        "category":"A semester computer graphics course project hosted on GitHub",
+        "image":"SpaceEvaders.jpg",
+        "url":"https://markalence.github.io/CGVAssignment/"
+      },
+      {
+        "title":"Rafiki",
+        "category":"A group semester software development project from university",
+        "image":"rafiki.jpg",
+        "url":"https://github.com/DanJamesH/rafiki"
+      },
+      {
+        "title":"Marist Young Adults Johannesburg",
+        "category":"A community of like-minded individuals",
+        "image":"MYAJ.jpg",
+        "url":"https://www.facebook.com/MaristYoungAdultsJohannesburg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Rosie was a superb student, coming out with the second to top mark in the entire Honours class for her degree as a whole. Her engagement with the research process was outstanding. Conducting a small empirical study, her data collection and analysis was excellent and will be used by me as a model in future classes.",
+        "user":"Associate Professor, UCT School of Education"
+      },
+      {
+        "text":"Rosie is by far one of the most exceptional English teachers I have ever managed. Rosie has garnered nothing but respect from her peers and they view her as a great leader. She also played a pivotal role as a Subject Lead in ensuring that the implementation and designing of sound policies and curriculum in the English department.",
+        "user":"Previous Employer"
+      }
+    ]
+  }
+}
